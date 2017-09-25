@@ -1,0 +1,25 @@
+E:\Tests\Ponycode Editor\Ponycode Editor\bin\Release\Ponycode Editor.exe.config
+E:\Tests\Ponycode Editor\Ponycode Editor\bin\Release\Ponycode Editor.exe
+E:\Tests\Ponycode Editor\Ponycode Editor\bin\Release\Ponycode Editor.pdb
+E:\Tests\Ponycode Editor\Ponycode Editor\obj\Release\Ponycode_Editor.Form1.resources
+E:\Tests\Ponycode Editor\Ponycode Editor\obj\Release\Ponycode_Editor.Properties.Resources.resources
+E:\Tests\Ponycode Editor\Ponycode Editor\obj\Release\Ponycode Editor.csproj.GenerateResource.Cache
+E:\Tests\Ponycode Editor\Ponycode Editor\obj\Release\Ponycode Editor.exe
+E:\Tests\Ponycode Editor\Ponycode Editor\obj\Release\Ponycode Editor.pdb
+E:\Tests\Ponycode Editor\Ponycode Editor\bin\Release\Ponycode Editor.exe.manifest
+E:\Tests\Ponycode Editor\Ponycode Editor\bin\Release\Ponycode Editor.application
+E:\Tests\Ponycode Editor\Ponycode Editor\obj\Release\Ponycode Editor.exe.manifest
+E:\Tests\Ponycode Editor\Ponycode Editor\obj\Release\Ponycode Editor.application
+E:\Tests\Ponycode Editor\Ponycode Editor\obj\Release\Ponycode Editor.csprojResolveAssemblyReference.cache
+E:\Tools\Ponycode Editor\Ponycode Editor\bin\Release\Ponycode Editor.exe.config
+E:\Tools\Ponycode Editor\Ponycode Editor\bin\Release\Ponycode Editor.exe.manifest
+E:\Tools\Ponycode Editor\Ponycode Editor\bin\Release\Ponycode Editor.application
+E:\Tools\Ponycode Editor\Ponycode Editor\bin\Release\Ponycode Editor.exe
+E:\Tools\Ponycode Editor\Ponycode Editor\bin\Release\Ponycode Editor.pdb
+E:\Tools\Ponycode Editor\Ponycode Editor\obj\Release\Ponycode_Editor.Form1.resources
+E:\Tools\Ponycode Editor\Ponycode Editor\obj\Release\Ponycode_Editor.Properties.Resources.resources
+E:\Tools\Ponycode Editor\Ponycode Editor\obj\Release\Ponycode Editor.csproj.GenerateResource.Cache
+E:\Tools\Ponycode Editor\Ponycode Editor\obj\Release\Ponycode Editor.exe.manifest
+E:\Tools\Ponycode Editor\Ponycode Editor\obj\Release\Ponycode Editor.application
+E:\Tools\Ponycode Editor\Ponycode Editor\obj\Release\Ponycode Editor.exe
+E:\Tools\Ponycode Editor\Ponycode Editor\obj\Release\Ponycode Editor.pdb

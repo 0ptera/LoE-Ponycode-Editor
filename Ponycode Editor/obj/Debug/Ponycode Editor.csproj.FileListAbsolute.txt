@@ -1,0 +1,26 @@
+E:\Tests\Ponycode Editor\Ponycode Editor\bin\Debug\Ponycode Editor.exe.config
+E:\Tests\Ponycode Editor\Ponycode Editor\bin\Debug\Ponycode Editor.exe
+E:\Tests\Ponycode Editor\Ponycode Editor\bin\Debug\Ponycode Editor.pdb
+E:\Tests\Ponycode Editor\Ponycode Editor\obj\Debug\Ponycode Editor.csprojResolveAssemblyReference.cache
+E:\Tests\Ponycode Editor\Ponycode Editor\obj\Debug\Ponycode_Editor.Form1.resources
+E:\Tests\Ponycode Editor\Ponycode Editor\obj\Debug\Ponycode_Editor.Properties.Resources.resources
+E:\Tests\Ponycode Editor\Ponycode Editor\obj\Debug\Ponycode Editor.csproj.GenerateResource.Cache
+E:\Tests\Ponycode Editor\Ponycode Editor\obj\Debug\Ponycode Editor.exe
+E:\Tests\Ponycode Editor\Ponycode Editor\obj\Debug\Ponycode Editor.pdb
+E:\Tests\Ponycode Editor\Ponycode Editor\bin\Debug\Ponycode Editor.exe.manifest
+E:\Tests\Ponycode Editor\Ponycode Editor\bin\Debug\Ponycode Editor.application
+E:\Tests\Ponycode Editor\Ponycode Editor\obj\Debug\Ponycode Editor.exe.manifest
+E:\Tests\Ponycode Editor\Ponycode Editor\obj\Debug\Ponycode Editor.application
+E:\Tools\Ponycode Editor\Ponycode Editor\bin\Debug\Ponycode Editor.exe.config
+E:\Tools\Ponycode Editor\Ponycode Editor\obj\Debug\Ponycode Editor.exe
+E:\Tools\Ponycode Editor\Ponycode Editor\obj\Debug\Ponycode Editor.pdb
+E:\Tools\Ponycode Editor\Ponycode Editor\bin\Debug\Ponycode Editor.exe.manifest
+E:\Tools\Ponycode Editor\Ponycode Editor\bin\Debug\Ponycode Editor.application
+E:\Tools\Ponycode Editor\Ponycode Editor\bin\Debug\Ponycode Editor.exe
+E:\Tools\Ponycode Editor\Ponycode Editor\bin\Debug\Ponycode Editor.pdb
+E:\Tools\Ponycode Editor\Ponycode Editor\obj\Debug\Ponycode Editor.csprojResolveAssemblyReference.cache
+E:\Tools\Ponycode Editor\Ponycode Editor\obj\Debug\Ponycode_Editor.Form1.resources
+E:\Tools\Ponycode Editor\Ponycode Editor\obj\Debug\Ponycode_Editor.Properties.Resources.resources
+E:\Tools\Ponycode Editor\Ponycode Editor\obj\Debug\Ponycode Editor.csproj.GenerateResource.Cache
+E:\Tools\Ponycode Editor\Ponycode Editor\obj\Debug\Ponycode Editor.exe.manifest
+E:\Tools\Ponycode Editor\Ponycode Editor\obj\Debug\Ponycode Editor.application
